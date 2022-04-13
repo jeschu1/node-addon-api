@@ -22,7 +22,7 @@
 - Documentation of iterator for `Napi::Object`.
 - Minor fixes all over documentation.
 
-### Commits
+### Commits aaa
 
 * [[`7046834305`](https://github.com/nodejs/node-addon-api/commit/7046834305)] - Update to use recent version of stale action (Michael Dawson)
 * [[`293c7327ad`](https://github.com/nodejs/node-addon-api/commit/293c7327ad)] - Merge pull request #1075 from JckXia/handle-error-thrown (Jack)
